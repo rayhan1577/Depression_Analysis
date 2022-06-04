@@ -21,7 +21,7 @@ $ pip3 install  -r requirements.txt
 # Execution
 Execution is straight forward. Run the notebook.
 
-# data
+# Data
 Given dataset was used for the project
 
 # Contributor
